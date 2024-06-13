@@ -1,0 +1,17 @@
+2024-05-31 17:00:59,846 - __main__ - INFO - Starting the script
+2024-05-31 17:00:59,847 - __main__ - DEBUG - Debug message from some_function
+2024-05-31 17:00:59,847 - __main__ - INFO - Info message from some_function
+2024-05-31 17:00:59,847 - __main__ - WARNING - Warning message from some_function
+2024-05-31 17:00:59,847 - __main__ - ERROR - Error message from some_function
+Traceback (most recent call last):
+  File "C:\Users\ddevraj\PycharmProjects\pythonProject\practice 2\programlogging.py", line 19, in some_function
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2024-05-31 17:00:59,852 - __main__ - CRITICAL - Critical message from some_function
+2024-05-31 17:00:59,852 - __main__ - INFO - Script finished
+2024-05-31 17:02:33,204 - __main__ - DEBUG - Debug message
+2024-05-31 17:02:33,205 - __main__ - INFO - Info message
+2024-05-31 17:02:33,205 - __main__ - WARNING - Warning message
+2024-05-31 17:02:33,205 - __main__ - ERROR - Error message
+2024-05-31 17:02:33,205 - __main__ - CRITICAL - Critical message
